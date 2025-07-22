@@ -1,4 +1,4 @@
-# Regrression Task Implementation using Artificial Neural Network
+# Regression Task Implementation using Artificial Neural Network
 In this repo i have implemented regression task by building an ANN in order to predict the home price 
 dataset used : https://raw.githubusercontent.com/selva86/datasets/master/BostonHousing.csv
 
