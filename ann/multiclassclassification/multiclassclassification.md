@@ -1,4 +1,4 @@
-# Binary Classification Task Implementation using Artificial Neural Network
+# Multi Classs Classification Task Implementation using Artificial Neural Network
 In this repo i have implemented classification task by building an ANN in order to predict the whether a patient has breast-cancer or not
 dataset used :IRIS
 Built a model from scratch using numpy and sklearn
